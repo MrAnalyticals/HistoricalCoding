@@ -4,6 +4,7 @@ An examination of old coding technologies
 Visual Basic,
 Cobol
 Basic
+Assembler
 DOS 3.1
 Windows 95, released in 1995
 Windows NT 3.51, released in 1995
